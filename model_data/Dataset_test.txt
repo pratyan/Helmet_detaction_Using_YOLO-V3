@@ -1,0 +1,1 @@
+E:\Yolo\YOLO-Road_object_detaction/Dataset/test\helmet/hard_hat_workers4998.png 195,77,251,141,0 195,0,252,16,0

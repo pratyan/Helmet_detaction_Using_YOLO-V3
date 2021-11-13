@@ -1,0 +1,1 @@
+E:\Yolo\YOLO-Road_object_detaction/Dataset/train\helmet/hard_hat_workers4999.png 37,171,133,267,0
